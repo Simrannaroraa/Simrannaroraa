@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Simrannaroraa
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram handle:Sim_xpvt
+  📫 How to reach me instagram handle:Sim_xpvt
 - 😄 Pronouns: she/her
 
 
